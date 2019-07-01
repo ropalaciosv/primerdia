@@ -1,0 +1,2 @@
+# primerdia
+aprendiendo git 
